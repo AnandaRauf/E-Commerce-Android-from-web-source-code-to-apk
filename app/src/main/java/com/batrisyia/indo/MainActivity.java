@@ -128,7 +128,7 @@ public class MainActivity extends AppCompatActivity {
 		_drawer_admimbut.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View _view) {
-				viewtoko.loadUrl("http://batrisyiaindonesia.homesourcetech.com/batriindo/admin");
+				viewtoko.loadUrl("URLWEB");
 				viewtoko.loadUrl("CODEWEBHTML");
 			}
 		});
@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity {
 		_drawer_reselbut.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View _view) {
-				viewtoko.loadUrl("URLWEBRESELL");
+				viewtoko.loadUrl("URLWEB");
 				viewtoko.loadUrl("CODEWEBHTML");
 			}
 		});
@@ -144,7 +144,7 @@ public class MainActivity extends AppCompatActivity {
 		_drawer_custombut.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View _view) {
-				viewtoko.loadUrl("https://batrisyiaindonesia.homesourcetech.com/batriindo/index.php?route=account/register");
+				viewtoko.loadUrl("URLWEB");
 				viewtoko.loadUrl("CODEWEBHTML");
 			}
 		});
@@ -152,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
 		_drawer_wishlistbut.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View _view) {
-				viewtoko.loadUrl("LINKURLWISHLISH");
+				viewtoko.loadUrl("URLWEB");
 				viewtoko.loadUrl("CODEWEBHTML");
 			}
 		});
@@ -160,7 +160,7 @@ public class MainActivity extends AppCompatActivity {
 		_drawer_checkout.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View _view) {
-				viewtoko.loadUrl("https://batrisyiaindonesia.homesourcetech.com/batriindo/index.php?route=checkout/cart");
+				viewtoko.loadUrl("URLWEB");
 				viewtoko.loadUrl("CODEWEBHTML");
 			}
 		});
