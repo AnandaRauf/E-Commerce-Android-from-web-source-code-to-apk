@@ -168,7 +168,8 @@ public class MainActivity extends AppCompatActivity {
 		_drawer_checkongkirbut.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View _view) {
-				
+				viewtoko.loadUrl("URLWEB");
+				viewtoko.loadUrl("CODEWEBHTML");
 			}
 		});
 	}
