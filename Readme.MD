@@ -6,7 +6,7 @@ Developed by : Ananda Rauf Maududi/ Home Source Tech.
 
 Developed date : 02 September 2020.
 
-Feature : Admin,Reseller, Customer, Track Delivery, dan Checkout.
+Feature : Admin,Reseller, Customer, Wishlist, Track Delivery, dan Checkout.
 
 Target : 29 Android OREO
 
